@@ -1,0 +1,20 @@
+.nomi{
+    background-color: green;
+    font-weight: 90px;
+    color: white;
+}
+.a{
+    background-color:hsl(0, 0%, 87%);
+}
+.th {
+    background-color:    
+}
+table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%
+}
+td,th{
+    text-align: left ;
+    padding: 10px;
+}
